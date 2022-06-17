@@ -1,0 +1,9 @@
+const { connected } = require("process")
+
+//This is the "Crypto Devs" contract address on rinkeby
+0x79B2ffC30cDc621229837f9F08eD616a913F374F
+
+
+//Read index.js under the pages folder to read about all the code
+//Read about pages/api under my-app and learn how the brackets 
+// in [tokenID].js helps create dynamic routes
